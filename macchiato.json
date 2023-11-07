@@ -1,0 +1,60 @@
+{
+  "peacock.favoriteColors": [
+    {
+      "name": "Catppuccin Macchiato Rosewater",
+      "value": "#f4dbd6"
+    },
+    {
+      "name": "Catppuccin Macchiato Flamingo",
+      "value": "#f0c6c6"
+    },
+    {
+      "name": "Catppuccin Macchiato Pink",
+      "value": "#f5bde6"
+    },
+    {
+      "name": "Catppuccin Macchiato Mauve",
+      "value": "#c6a0f6"
+    },
+    {
+      "name": "Catppuccin Macchiato Red",
+      "value": "#ed8796"
+    },
+    {
+      "name": "Catppuccin Macchiato Maroon",
+      "value": "#ee99a0"
+    },
+    {
+      "name": "Catppuccin Macchiato Peach",
+      "value": "#f5a97f"
+    },
+    {
+      "name": "Catppuccin Macchiato Yellow",
+      "value": "#eed49f"
+    },
+    {
+      "name": "Catppuccin Macchiato Green",
+      "value": "#a6da95"
+    },
+    {
+      "name": "Catppuccin Macchiato Teal",
+      "value": "#8bd5ca"
+    },
+    {
+      "name": "Catppuccin Macchiato Sky",
+      "value": "#91d7e3"
+    },
+    {
+      "name": "Catppuccin Macchiato Sapphire",
+      "value": "#7dc4e4"
+    },
+    {
+      "name": "Catppuccin Macchiato Blue",
+      "value": "#8aadf4"
+    },
+    {
+      "name": "Catppuccin Macchiato Lavender",
+      "value": "#b7bdf8"
+    }
+  ]
+}

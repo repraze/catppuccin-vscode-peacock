@@ -1,0 +1,60 @@
+{
+  "peacock.favoriteColors": [
+    {
+      "name": "Catppuccin Frappe Rosewater",
+      "value": "#f2d5cf"
+    },
+    {
+      "name": "Catppuccin Frappe Flamingo",
+      "value": "#eebebe"
+    },
+    {
+      "name": "Catppuccin Frappe Pink",
+      "value": "#f4b8e4"
+    },
+    {
+      "name": "Catppuccin Frappe Mauve",
+      "value": "#ca9ee6"
+    },
+    {
+      "name": "Catppuccin Frappe Red",
+      "value": "#e78284"
+    },
+    {
+      "name": "Catppuccin Frappe Maroon",
+      "value": "#ea999c"
+    },
+    {
+      "name": "Catppuccin Frappe Peach",
+      "value": "#ef9f76"
+    },
+    {
+      "name": "Catppuccin Frappe Yellow",
+      "value": "#e5c890"
+    },
+    {
+      "name": "Catppuccin Frappe Green",
+      "value": "#a6d189"
+    },
+    {
+      "name": "Catppuccin Frappe Teal",
+      "value": "#81c8be"
+    },
+    {
+      "name": "Catppuccin Frappe Sky",
+      "value": "#99d1db"
+    },
+    {
+      "name": "Catppuccin Frappe Sapphire",
+      "value": "#85c1dc"
+    },
+    {
+      "name": "Catppuccin Frappe Blue",
+      "value": "#8caaee"
+    },
+    {
+      "name": "Catppuccin Frappe Lavender",
+      "value": "#babbf1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@catppuccin/vscode-peacock",
+  "version": "1.0.0",
+  "description": "🦚 Soothing pastel favorite colors for VSCode Peacock Extension",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/repraze/catppuccin-vscode-peacock.git"
+  },
+  "keywords": [
+    "theme",
+    "vscode-extension",
+    "peacock",
+    "catppuccin"
+  ],
+  "author": "Thomas Dubosc (http://repraze.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/repraze/catppuccin-vscode-peacock/issues"
+  },
+  "homepage": "https://github.com/repraze/catppuccin-vscode-peacock#readme",
+  "devDependencies": {
+    "@catppuccin/palette": "^0.2.0"
+  },
+  "type": "module"
+}

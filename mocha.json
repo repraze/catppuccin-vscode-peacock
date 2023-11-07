@@ -1,0 +1,60 @@
+{
+  "peacock.favoriteColors": [
+    {
+      "name": "Catppuccin Mocha Rosewater",
+      "value": "#f5e0dc"
+    },
+    {
+      "name": "Catppuccin Mocha Flamingo",
+      "value": "#f2cdcd"
+    },
+    {
+      "name": "Catppuccin Mocha Pink",
+      "value": "#f5c2e7"
+    },
+    {
+      "name": "Catppuccin Mocha Mauve",
+      "value": "#cba6f7"
+    },
+    {
+      "name": "Catppuccin Mocha Red",
+      "value": "#f38ba8"
+    },
+    {
+      "name": "Catppuccin Mocha Maroon",
+      "value": "#eba0ac"
+    },
+    {
+      "name": "Catppuccin Mocha Peach",
+      "value": "#fab387"
+    },
+    {
+      "name": "Catppuccin Mocha Yellow",
+      "value": "#f9e2af"
+    },
+    {
+      "name": "Catppuccin Mocha Green",
+      "value": "#a6e3a1"
+    },
+    {
+      "name": "Catppuccin Mocha Teal",
+      "value": "#94e2d5"
+    },
+    {
+      "name": "Catppuccin Mocha Sky",
+      "value": "#89dceb"
+    },
+    {
+      "name": "Catppuccin Mocha Sapphire",
+      "value": "#74c7ec"
+    },
+    {
+      "name": "Catppuccin Mocha Blue",
+      "value": "#89b4fa"
+    },
+    {
+      "name": "Catppuccin Mocha Lavender",
+      "value": "#b4befe"
+    }
+  ]
+}
