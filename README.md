@@ -34,7 +34,7 @@
 <img src="assets/mocha.webp"/>
 </details>
 
-Previews with [Catppuccin for VSCode ](https://github.com/catppuccin/vscode).
+Previews with [Catppuccin for VSCode](https://github.com/catppuccin/vscode).
 
 ## Usage
 
@@ -56,7 +56,7 @@ Previews with [Catppuccin for VSCode ](https://github.com/catppuccin/vscode).
 
 6. Save and exit
 7. Within the command pallette, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, search for `Peacock: Change to a Favorite Color`
-8. Select your vavorite one 🌈
+8. Select your favorite one 🌈
 
 As a bonus, you can set Peacock to `Surprise Me From Favorites Only` and `Surprise Me On Startup`.
 
