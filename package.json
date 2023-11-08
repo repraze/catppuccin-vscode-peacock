@@ -1,7 +1,7 @@
 {
   "name": "@catppuccin/vscode-peacock",
   "version": "1.0.0",
-  "description": "🦚 Soothing pastel favorite colors for VSCode Peacock Extension",
+  "description": "🦚 Soothing pastel theme for VSCode Peacock extension",
   "main": "index.js",
   "scripts": {
     "generate": "node scripts/generate.js"
