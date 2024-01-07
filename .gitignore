@@ -1,1 +1,18 @@
 .vscode/
+node_modules/
+result
+storybook-static/
+.eslintcache
+*.tar
+*.tar.gz
+*.tgz
+*.vsix
+*.zip
+
+# yarn v4
+.yarn-error.log
+.yarn/*
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
